@@ -1,5 +1,3 @@
-# csv-to-excel-automation
-Python script to clean CSV data and generate Excel sales reports automatically.
 # CSV to Excel Automation & Sales Report Generator
 
 Python automation script to clean messy sales data from CSV files and generate a structured Excel report automatically.
