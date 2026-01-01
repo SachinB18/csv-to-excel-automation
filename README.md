@@ -19,3 +19,19 @@ Python automation script to clean messy sales data from CSV files and generate a
 pip install pandas openpyxl
 python csv_to_excel_automation.py
 
+```
+
+Public sample data was used for demonstration purposes.
+
+
+## Project Preview
+
+**Raw CSV (Before Cleaning)**  
+![Raw CSV](raw_csv_before.png)
+
+**Cleaned Excel Output**  
+![Cleaned Excel](cleaned_excel_after.png)
+
+**Summary Metrics**  
+![Summary](summary_metrics.png)
+
